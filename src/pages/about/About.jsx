@@ -48,7 +48,7 @@ const About = () => {
             <Fade bottom>
               <p>
                 I’m an ambitious Full-Stack Developer who's passionate about
-                coding and I am looking for a role in a IT company with the
+                coding and I am looking for any IT forcused role in a with the
                 opportunity to work with the latest technologies on challenging
                 and diverse projects.
               </p>
@@ -56,11 +56,11 @@ const About = () => {
             <Fade bottom>
               <p>
                 I’m from Zimbabwe and i am currently living here. I’m a
-                freelancer who loves building cool UI effects, dynamic webpages
-                with amazing animations and creating intuitive, dynamic user
-                experiences. I also love to reach out to new opportunities
-                across the globe that will enhance my skills and get the
-                opporutinity to work with other programmers as well
+                freelancer who builds UI effects, dynamic webpages with amazing
+                animations and creating intuitive, dynamic user experiences. I
+                also love to reach out to new opportunities across the globe
+                that will enhance my skills and get the opporutinity to work
+                with other programmers as well
               </p>
             </Fade>
             <Fade bottom>
