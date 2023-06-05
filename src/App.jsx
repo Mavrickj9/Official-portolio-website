@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 // pages
-import { Home, About, Contact, Gaming, ProjectPage, ErrorPage } from "./pages";
+import { Home, About, Contact, ProjectPage, ErrorPage } from "./pages";
 
 // components
 import { Sidebar, ThemeTemplate } from "./components";

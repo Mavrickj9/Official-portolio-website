@@ -40,11 +40,6 @@ const sideBarMenu = [
     icon: <RiContactsLine className="link-icon" />,
     url: "/contact",
   },
-  {
-    text: "Gaming",
-    icon: <IoLogoGameControllerB className="link-icon" />,
-    url: "/gaming",
-  },
 ];
 // social media icons and url
 const socialIcons = [
@@ -94,11 +89,6 @@ const skillSet = [
     url: "",
   },
 
-  {
-    icon: <SiJquery className="skills-icon switch__color" />,
-    spanText: "JQUERY",
-    url: "",
-  },
   {
     icon: <FaGit className="skills-icon switch__color" />,
     spanText: "GIT",
