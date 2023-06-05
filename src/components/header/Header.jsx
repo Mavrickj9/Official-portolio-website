@@ -7,7 +7,7 @@ import "./header.scss";
 
 const nameArray = ["i", "n", "o", "t", "e", "n", "d", "a"];
 const jobArray = [
-  "w",
+  "W",
   "e",
   "b",
   "",
@@ -36,7 +36,7 @@ const Header = () => {
     <>
       <section className="section-1 header__container section__padding">
         <main className="intro-page">
-          <h1 arial-label="Hi i'm Tinotenda, web Junior full-stack developer">
+          <h1 arial-label="Hi i'm Tinotenda, full-stack developer">
             <span className={letterClass}>H</span>
             <span className={`${letterClass} _12`}>i</span>
             <span className={`${letterClass} _13`}>,</span>
@@ -84,7 +84,7 @@ const Header = () => {
             />
           </h1>
 
-          <p className="text-desc">WEB DEVELOPER / UI/UX DESIGNER</p>
+          <p className="text-desc">WEB DEVELOPER / DIGITAL MARKETING MANAGER</p>
           <Link to="/contact" className="contact-button">
             <div>
               <span className="bg switch__bg"></span>
